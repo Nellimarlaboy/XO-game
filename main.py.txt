@@ -1,5 +1,5 @@
 print("hello world")
-if(x==10):
+if(x==12):
     print("hi")
 else:
     print("bye x2")
