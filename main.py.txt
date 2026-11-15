@@ -1,1 +1,3 @@
 print("hello world")
+if(x==10):
+    print("hi")
